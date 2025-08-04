@@ -41,7 +41,7 @@ dependencies:
 
   # Logging
   stack_trace: 1.12.1
-  sentry_flutter: ^8.14.2
+  sentry_flutter: ^9.6.0
 
   # Packages
   rest_client:
