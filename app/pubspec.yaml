@@ -37,7 +37,7 @@ dependencies:
   # Storing data
   shared_preferences: ^2.5.3
   drift: ^2.26.1
-  drift_flutter: 0.2.4
+  drift_flutter: 0.2.7
 
   # Logging
   stack_trace: 1.12.1
